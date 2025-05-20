@@ -1,0 +1,38 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.dailycoder</groupId>
+        <artifactId>learnJavaDev</artifactId>
+        <version>0.0.1</version>
+    </parent>
+
+    <artifactId>springDemo</artifactId>
+    <version>0.0.1</version>
+    <groupId>com.dailycoder.springDemo</groupId>
+    <packaging>jar</packaging>
+
+    <name>springDemo</name>
+    <url>http://maven.apache.org</url>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.java.version>17</project.java.version>
+        <project.junit.version>3.8.1</project.junit.version>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>${project.junit.version}</version>
+            <scope>test</scope>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+            <version>7.0.0-M5</version>
+        </dependency>
+    </dependencies>
+</project>

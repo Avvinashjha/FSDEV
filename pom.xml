@@ -4,13 +4,14 @@
 
   <groupId>com.dailycoder</groupId>
   <artifactId>learnJavaDev</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>0.0.1</version>
   <packaging>pom</packaging>
 
   <name>learnJavaDev</name>
   <url>http://maven.apache.org</url>
   <modules>
-    <module>servletBasic</module>
+    <module>springBasics</module>
+    <module>springDemo</module>
   </modules>
 
   <properties>

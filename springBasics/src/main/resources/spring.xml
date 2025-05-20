@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+    <bean name="setterCar" class="com.dailycoder.Car">
+        <property name="name" value="My Car"/>
+    </bean>
+    <bean name="constructorCar, test, lol" class="com.dailycoder.Car">
+        <constructor-arg name="name" value="My Constructor Car"/>
+    </bean>
+
+    <bean id="idCar" class="com.dailycoder.Car">
+        <property name="name" value="My ID Car"/>
+    </bean>
+
+    <bean id="engine1" class="com.dailycoder.Engine">
+        <constructor-arg name="horsepower" value="100"/>
+        <constructor-arg name="type" value="v8"/>
+    </bean>
+</beans>

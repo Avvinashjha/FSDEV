@@ -5,71 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="caf905d3-b56b-43e6-bbf1-e86b9d9a339b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/bs/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/bs/AccountFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/bs/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/bs/CurrentAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/bs/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/bs/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/bs/SavingsAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/bs/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/bs/TransactionLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/class02/AccountManagerApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/class02/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/class02/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/class02/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/class02/bankManager/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/class02/bankManager/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/class02/bankManager/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/class03/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/class03/ElectricCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/class03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/class03/log.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/class_04/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/class_04/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/class_04/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/class_04/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/class_04/LuxuryCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/class_04/PremiumVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/class_04/Swimmable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/class_04/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/class_04/WowCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/class_05/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/class_05/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/class_05/AquaticAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/class_05/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/class_05/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/class_05/Dolphin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/class_05/Eagle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/class_05/Swimamable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/lab/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/lab/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/lab/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/lab/HeadLight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/lab/Heart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/lab/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/lab_abstract/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/lab_abstract/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/lab_abstract/ElectricCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/lab_interface/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/lab_interface/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/lab_interface/DieselCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/lab_interface/ElectricCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/lab_interface/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/lab_interface/Sukhoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/lab_interface/Swimmable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/lab_interface/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/lab_interface/Vikrant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/lab_polymorf/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/lab_polymorf/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/javaSessions/lab_polymorf/SuperCal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servletBasics/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servletBasic/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springBasics/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springBasics/src/main/java/com/dailycoder/BeanConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springBasics/src/main/java/com/dailycoder/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springBasics/src/main/java/com/dailycoder/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springBasics/src/main/java/com/dailycoder/utils/annotations/DCInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springBasics/src/main/java/com/dailycoder/utils/processor/DCInfoProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springBasics/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springBasics/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springBasics/src/test/java/com/dailycoder/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springDemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springDemo/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springDemo/src/test/java/com/dailycoder/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/servletBasic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/servletBasic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servletBasic/src/main/java/com/dailycoder/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/springBasics/src/main/java/com/dailycoder/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,8 +36,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -114,6 +70,8 @@
     "Application.Car.executor": "Run",
     "Application.Concepts.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.com.dailycoder.App (1).executor": "Run",
+    "Application.com.dailycoder.App.executor": "Run",
     "Application.com.dailycoder.Main.executor": "Run",
     "Application.com.dailycoder.class_04.App.executor": "Run",
     "Application.com.dailycoder.class_05.App.executor": "Run",
@@ -121,7 +79,10 @@
     "Application.com.dailycoder.lab.Main.executor": "Run",
     "Application.com.dailycoder.lab_abstract.App.executor": "Run",
     "Application.com.dailycoder.lab_polymorf.App.executor": "Run",
+    "Application.com.dailycoder.springDemo.App.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.servletBasic [org.apache.tomcat.maven:tomcat7-maven-plugin:2.2:run-war].executor": "Run",
+    "Maven.servletBasic [org.apache.tomcat.maven:tomcat7-maven-plugin:2.2:run].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -135,6 +96,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/servletBasic/src/main/webapp/WEB-INF" />
       <recent name="$PROJECT_DIR$/docs/javaSessions" />
       <recent name="$PROJECT_DIR$/src/main/com/dailycoder" />
       <recent name="$PROJECT_DIR$/src/main/com" />
@@ -143,13 +105,26 @@
       <recent name="com.dailycoder.bankingSystem" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.dailycoder.App">
+  <component name="RunManager" selected="Application.com.dailycoder.springDemo.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dailycoder.lab_interface.App" />
-      <module name="learnJavaDev" />
+      <option name="MAIN_CLASS_NAME" value="com.dailycoder.App" />
+      <module name="springBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dailycoder.lab_interface.*" />
+          <option name="PATTERN" value="com.dailycoder.springDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dailycoder.App" />
+      <module name="servletBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dailycoder.springDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,25 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.dailycoder.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="com.dailycoder.App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dailycoder.App" />
-      <module name="servletBasic" />
+      <module name="springBasics" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.dailycoder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.dailycoder.lab_abstract.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dailycoder.lab_abstract.App" />
-      <module name="learnJavaDev" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dailycoder.lab_abstract.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,20 +171,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.dailycoder.springDemo.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dailycoder.springDemo.App" />
+      <module name="springDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dailycoder.springDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.com.dailycoder.lab.App" />
+      <item itemvalue="Application.com.dailycoder.springDemo.App" />
+      <item itemvalue="Application.com.dailycoder.App (1)" />
       <item itemvalue="Application.com.dailycoder.App" />
-      <item itemvalue="Application.com.dailycoder.lab_abstract.App" />
       <item itemvalue="Application.com.dailycoder.lab_polymorf.App" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.dailycoder.springDemo.App" />
+        <item itemvalue="Application.com.dailycoder.App (1)" />
         <item itemvalue="Application.com.dailycoder.App" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.com.dailycoder.lab_polymorf.App" />
-        <item itemvalue="Application.com.dailycoder.lab.App" />
-        <item itemvalue="Application.com.dailycoder.lab_abstract.App" />
       </list>
     </recent_temporary>
   </component>
