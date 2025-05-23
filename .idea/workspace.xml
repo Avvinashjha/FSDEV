@@ -5,20 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="caf905d3-b56b-43e6-bbf1-e86b9d9a339b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/AnnotationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/BeanConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/DieselEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/MarutiCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/PetrolEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/ToyotaCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springDemo/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springDemo/src/main/resources/test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springDemo/src/main/resources/test.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/controller/TodoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/model/Todo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/service/TodoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springDemo/src/main/webapp/WEB-INF/spring-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springDemo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springDemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springDemo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/AnnotationConfig.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/Engine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springDemo/src/main/resources/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springDemo/src/main/resources/spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/BeanConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/DieselEngine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/MarutiCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/PetrolEngine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/ToyotaCar.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +85,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "springTodoList",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
