@@ -1,0 +1,15 @@
+engine:
+  diesel:
+    horsepower: 500
+    type: v8
+  petrol:
+    horsepower: 300
+    type: v6
+
+car:
+  toyota:
+    name: Toyota_pro
+    speed: 100
+  maruti:
+    name: Maruti
+    speed: 60

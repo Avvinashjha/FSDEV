@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+<!--    <bean id="engine1" class="com.dailycoder.springDemo.Engine">-->
+<!--        <constructor-arg name="horsePower" value="100"/>-->
+<!--        <constructor-arg name="type" value="v8"/>-->
+<!--    </bean>-->
+<!--    <bean id="engine2" class="com.dailycoder.springDemo.Engine">-->
+<!--        <constructor-arg name="horsePower" value="150"/>-->
+<!--        <constructor-arg name="type" value="v9"/>-->
+<!--    </bean>-->
+
+    <bean id="toyota, expensiveCar" class="com.dailycoder.springDemo.Car">
+        <property name="name" value="Toyota"/>
+        <property name="engine" ref="engine1"/>
+        <property name="speed" value="100"/>
+    </bean>
+<!--    <bean name="toyota, normalCar" class="com.dailycoder.springDemo.Car">-->
+<!--        <property name="name" value="Toyota"/>-->
+<!--        <property name="engine" ref="engine1"/>-->
+<!--        <property name="speed" value="100"/>-->
+<!--    </bean>-->
+    <bean id="maruti" class="com.dailycoder.springDemo.Car">
+        <property name="name" value="maruti-xyz"/>
+        <property name="engine" ref="engine2"/>
+        <property name="speed" value="10"/>
+    </bean>
+</beans>

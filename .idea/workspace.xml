@@ -5,27 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="caf905d3-b56b-43e6-bbf1-e86b9d9a339b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/servletBasic/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springBasics/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springBasics/src/main/java/com/dailycoder/BeanConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springBasics/src/main/java/com/dailycoder/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springBasics/src/main/java/com/dailycoder/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springBasics/src/main/java/com/dailycoder/utils/annotations/DCInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springBasics/src/main/java/com/dailycoder/utils/processor/DCInfoProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springBasics/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springBasics/src/main/resources/spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springBasics/src/test/java/com/dailycoder/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springDemo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springDemo/src/main/resources/spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springDemo/src/test/java/com/dailycoder/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/AnnotationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/BeanConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/DieselEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/MarutiCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/PetrolEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/ToyotaCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springDemo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springDemo/src/main/resources/test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springDemo/src/main/resources/test.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/servletBasic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/servletBasic/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/servletBasic/src/main/java/com/dailycoder/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/springBasics/src/main/java/com/dailycoder/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/springDemo/src/main/java/com/dailycoder/springDemo/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springDemo/src/main/resources/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springDemo/src/main/resources/spring.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +28,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -56,6 +49,9 @@
     &quot;accountId&quot;: &quot;8817269d-d2fb-4401-aee5-b764574728b4&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-17.0.13/Contents/Home/lib/src.zip!/java.base/java/lang/annotation/ElementType.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -102,6 +98,7 @@
       <recent name="$PROJECT_DIR$/src/main/com" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dailycoder.springDemo" />
       <recent name="com.dailycoder.bankingSystem" />
     </key>
   </component>
@@ -185,9 +182,9 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.App" />
       <item itemvalue="Application.com.dailycoder.springDemo.App" />
       <item itemvalue="Application.com.dailycoder.App (1)" />
-      <item itemvalue="Application.com.dailycoder.App" />
       <item itemvalue="Application.com.dailycoder.lab_polymorf.App" />
       <item itemvalue="Application.Main" />
     </list>
@@ -195,7 +192,6 @@
       <list>
         <item itemvalue="Application.com.dailycoder.springDemo.App" />
         <item itemvalue="Application.com.dailycoder.App (1)" />
-        <item itemvalue="Application.com.dailycoder.App" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.com.dailycoder.lab_polymorf.App" />
       </list>

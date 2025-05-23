@@ -1,16 +1,23 @@
 package com.dailycoder.springDemo;
 
-public class Car {
+abstract class Car {
     private String name;
-//    private Engine engine;
+    private int speed;
 
-    public Car(String name ) {
+    public Car(String name, int speed) {
         this.name = name;
-//        this.engine = engine;
+        this.speed = speed;
     }
-
+    public int getSpeed() {
+        return speed;
+    }
+    public void setSpeed(int speed) {
+        this.speed = speed;
+    }
+    public String getName() {
+        return name;
+    }
     public void startCar() {
-//        engine.startEngine();
-        System.out.println("Car " + name + " is starting...");
+        System.out.println("Car " + name + " is running at speed " + speed + " km/h");
     }
 }
